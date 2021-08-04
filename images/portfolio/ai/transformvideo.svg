@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="105px" viewBox="0 0 150 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Platform" transform="translate(-106.000000, -1122.000000)" stroke-width="3">
+            <g id="Group-2" transform="translate(108.000000, 1124.000000)">
+                <path d="M13,10 C21.0289888,58.6666667 32.7991175,83 48.310386,83 C55.469971,83 66.9126013,83 82.6382769,83 L143,83" id="Line-8" stroke="#FF6D04" stroke-linecap="square"></path>
+                <path d="M40,10 C46.3614296,48 55.6869931,67 67.9766904,67 C73.6492847,67 82.7153687,67 95.1749424,67 L143,67" id="Line-8-Copy" stroke="#FFF0E5" stroke-linecap="square"></path>
+                <path d="M43,53 C44.736474,65 52.0084456,71 64.815915,71 C70.727499,71 80.1755424,71 93.1600451,71 L143,71" id="Line-8-Copy-9" stroke="#FFF0E5" stroke-linecap="square"></path>
+                <path d="M53,15 C58.5585307,28.3333333 66.7070813,35 77.4456518,35 C82.4022876,35 90.3241086,35 101.211115,35 L143,35" id="Line-8-Copy-8" stroke="#FF6D04" stroke-linecap="square"></path>
+                <path d="M9,63 C17.2760346,87 29.4083211,99 45.3968594,99 C52.7767394,99 64.5714506,99 80.7809931,99 L143,99" id="Line-8-Copy-4" stroke="#FFF0E5" stroke-linecap="square" transform="translate(76.000000, 81.000000) scale(1, -1) translate(-76.000000, -81.000000) "></path>
+                <path d="M35,82 C41.6702369,88 51.4484976,91 64.3347822,91 C70.2827452,91 79.7889303,91 92.8533377,91 L143,91" id="Line-8-Copy-5" stroke="#FF6D04" stroke-linecap="square"></path>
+                <path d="M57,87 C60.1662541,87 67.0916046,87 77.7760517,87 C80.0912735,87 83.0567108,87 86.6723638,87 C89.3963968,87 94.3128537,87 101.421735,87 L143,87" id="Line-8-Copy-6" stroke="#FF6D04" stroke-linecap="square" transform="translate(100.000000, 87.000000) scale(1, -1) translate(-100.000000, -87.000000) "></path>
+                <path d="M9,59 C17.3995575,65 29.7129229,68 45.9400961,68 C53.4301235,68 65.4008752,68 81.8523512,68 L145,68" id="Line-8-Copy-7" stroke="#FFF0E5" stroke-linecap="square" transform="translate(77.000000, 63.500000) scale(1, -1) translate(-77.000000, -63.500000) "></path>
+                <path d="M7,36 C15.2760346,40.6666667 27.4083211,43 43.3968594,43 C50.7767394,43 62.5714506,43 78.7809931,43 L141,43" id="Line-8-Copy-3" stroke="#FF6D04" stroke-linecap="square"></path>
+                <path d="M26,26 C33.102567,34.6666667 43.5146039,39 57.2361107,39 C63.5695898,39 73.6919166,39 87.6030911,39 L141,39" id="Line-8-Copy-2" stroke="#FF6D04" stroke-linecap="square"></path>
+                <circle id="Oval" stroke="#FF6D04" fill="#FFFFFF" cx="14" cy="12" r="7"></circle>
+                <circle id="Oval-Copy-3" stroke="#FF6D04" fill="#FFFFFF" cx="28" cy="30" r="7"></circle>
+                <circle id="Oval-Copy-4" stroke="#FF6D04" fill="#FFFFFF" cx="7" cy="37" r="7"></circle>
+                <circle id="Oval-Copy-5" stroke="#FF6D04" fill="#FFFFFF" cx="24" cy="56" r="7"></circle>
+                <circle id="Oval-Copy-6" stroke="#FFF0E5" fill="#FF6D04" cx="40" cy="7" r="7"></circle>
+                <circle id="Oval-Copy-7" stroke="#FF6D04" fill="#FFFFFF" cx="57" cy="20" r="7"></circle>
+                <circle id="Oval-Copy-8" stroke="#FF6D04" fill="#FFFFFF" cx="43" cy="57" r="7"></circle>
+                <circle id="Oval-Copy-9" stroke="#FFF0E5" fill="#FF6D04" cx="7" cy="67" r="7"></circle>
+                <circle id="Oval-Copy-10" stroke="#FF6D04" fill="#FFFFFF" cx="35" cy="81" r="7"></circle>
+                <circle id="Oval-Copy-11" stroke="#FFF0E5" fill="#FF6D04" cx="61" cy="67" r="7"></circle>
+                <circle id="Oval-Copy-12" stroke="#FF6D04" fill="#FFFFFF" cx="57" cy="87" r="7"></circle>
+                <circle id="Oval-Copy-13" stroke="#FFF0E5" fill="#FF6D04" cx="10" cy="94" r="7"></circle>
+                <g id="Group-5" transform="translate(115.000000, 29.000000)">
+                    <rect id="Rectangle-Copy-120" stroke="#FFF0E5" fill="#FF6D04" x="1.5" y="25.5" width="30" height="18" rx="4"></rect>
+                    <rect id="Rectangle-Copy-121" stroke="#FF6D04" fill="#FFFFFF" x="1.5" y="1.5" width="30" height="18" rx="4"></rect>
+                    <rect id="Rectangle-Copy-122" stroke="#FF6D04" fill="#FFFFFF" x="1.5" y="49.5" width="30" height="18" rx="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

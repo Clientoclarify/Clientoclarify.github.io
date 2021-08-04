@@ -1,0 +1,26 @@
+<svg width="1408" height="800" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;" stroke="null">
+
+ <title style="vector-effect: non-scaling-stroke;" stroke="null">bd</title>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <polyline stroke="#eaeaea" id="svg_1" stroke-width="8px" stroke-miterlimit="10" stroke-linecap="round" fill="none" points="308.38078278303146,323.23585480451584 371.0466153025627,323.23585480451584 423.24943512678146,372.70460480451584 468.66288727521896,265.1529385447502 574.7382351756096,514.7473294138908 706.6740261912346,71.1450726389885 763.8116604685783,421.43519562482834 828.2211453318596,421.43519562482834 915.8567654490471,485.8114773631096 964.1640164256096,423.3690029978752 1015.4763943552971,423.3690029978752 " class="cls-1"/>
+  <path style="vector-effect: non-scaling-stroke;" stroke="null" id="svg_2" fill="#005eb8" d="m470.16391,273.28773a11,11 0 1 1 11,-11a11,11 0 0 1 -11,11z" class="cls-2"/>
+  <path stroke="null" id="svg_3" fill="#fff" d="m517.8705,277.55846a9.5,9.5 0 1 1 -9.5,9.5a9.5,9.5 0 0 1 9.5,-9.5m0,-3a12.5,12.5 0 1 0 12.5,12.5a12.51,12.51 0 0 0 -12.5,-12.5z" class="cls-3"/>
+  <path style="vector-effect: non-scaling-stroke;" stroke="null" id="svg_4" fill="#0f89db" d="m765.09592,425.9652a11,11 0 1 1 11,-11a11,11 0 0 1 -11,11z" class="cls-4"/>
+  <path stroke="null" id="svg_5" fill="#0fffff" d="m631.1505,289.86846a9.5,9.5 0 1 1 -9.5,9.5a9.5,9.5 0 0 1 9.5,-9.5m0,-3a12.5,12.5 0 1 0 12.5,12.5a12.51,12.51 0 0 0 -12.5,-12.5z" class="cls-3"/>
+  <path transform="rotate(-36.5521 475.963 221.601)" id="svg_13" d="m436.9848,224.13408c9.73706,0 18.89205,3.93086 25.76937,11.06185c6.89313,7.13426 10.68293,16.64008 10.68293,26.75591l15.01051,0c0,-29.38518 -23.08993,-53.28674 -51.46597,-53.28674l0,15.46898l0.00316,0zm0.01898,-27.42791c34.71241,0 62.94609,29.27753 62.94609,65.26199l15.00419,0c0,-44.5149 -34.96864,-80.73422 -77.95344,-80.73422l0,15.47224l0.00316,0zm20.75215,54.44806c0,5.92075 -4.65342,10.72259 -10.39189,10.72259s-10.39189,-4.80184 -10.39189,-10.72259c0,-5.91422 4.65342,-10.71607 10.39189,-10.71607s10.39189,4.79858 10.39189,10.71607z" fill="#0f89db"/>
+  <polyline transform="rotate(-0.113988 594.762 393.77)" stroke="#480E9C" stroke-linejoin="round" stroke-linecap="round" stroke-width="4" fill="none" points="1027.7767333382071,780.1445927709239 37.89018243488681,780.1445927709239 37.89018243488681,7.395118722309348 1151.6337890022696,7.395118722309348 1151.6337890022696,681.0139775365489 " class="st0"/>
+  <line transform="rotate(-0.113988 594.762 393.77)" stroke="#480E9C" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" fill="none" y2="126.01577" x2="1151.10156" y1="126.01577" x1="61.73875" class="st1"/>
+  <line transform="rotate(-0.113988 594.762 393.77)" stroke="#480E9C" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" fill="none" y2="67.6289" x2="161.09795" y1="67.6289" x1="111.35981" class="st1"/>
+  <line transform="rotate(-0.113988 594.762 393.77)" stroke="#480E9C" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" fill="none" y2="67.43196" x2="259.59877" y1="67.43196" x1="210.83589" class="st1"/>
+  <line transform="rotate(-0.113988 594.762 393.77)" stroke="#480E9C" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" fill="none" y2="67.23503" x2="359.07486" y1="67.23503" x1="309.33672" class="st1"/>
+  <line transform="rotate(-0.113988 594.762 393.77)" stroke="#00A546" stroke-linejoin="round" stroke-linecap="round" stroke-width="6" fill="none" y2="561.85148" x2="855.4116" y1="482.23486" x1="855.4116" class="st2"/>
+  <line transform="rotate(-0.113988 594.762 393.77)" stroke="#480E9C" stroke-linejoin="round" stroke-linecap="round" stroke-width="6" fill="none" y2="562.78869" x2="384.28467" y1="404.33601" x1="384.28467" class="st3"/>
+  <line transform="rotate(-0.113988 594.762 393.77)" stroke="#480E9C" stroke-linejoin="round" stroke-linecap="round" stroke-width="6" fill="none" y2="562.9846" x2="285.84285" y1="463.8541" x1="285.84285" class="st3"/>
+  <line transform="rotate(-0.113988 594.762 393.77)" stroke="#480E9C" stroke-linejoin="round" stroke-linecap="round" stroke-width="6" fill="none" y2="563.18262" x2="186.24874" y1="345.40775" x1="186.24874" class="st3"/>
+  <line transform="rotate(-0.113988 594.762 393.77)" stroke="#00A546" stroke-linejoin="round" stroke-linecap="round" stroke-width="6" fill="none" y2="562.04952" x2="755.79809" y1="344.27466" x1="755.79809" class="st2"/>
+  <line transform="rotate(-0.113988 594.762 393.77)" stroke="#00A546" stroke-linejoin="round" stroke-linecap="round" stroke-width="6" fill="none" y2="562.24543" x2="657.35627" y1="403.79275" x1="657.35627" class="st2"/>
+  <circle transform="rotate(-0.113988 594.762 393.77)" stroke="#480E9C" stroke-linejoin="round" stroke-linecap="round" stroke-width="6" fill="none" r="166.02258" cy="462.91901" cx="755.8175" class="st3"/>
+  <line transform="rotate(-0.113988 531.459 348.816)" stroke="#480E9C" stroke-linejoin="round" stroke-linecap="round" stroke-width="6" fill="none" y2="734.27881" x2="1088.9414" y1="575.82613" x1="890.96409" class="st3"/>
+ </g>
+</svg>
