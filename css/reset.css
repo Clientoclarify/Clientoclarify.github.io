@@ -207,8 +207,8 @@ input:-webkit-autofill:focus {
 }
 
 .preloader-inner {
-  width: 40px;
-  height: 40px;
+  width: 70px;
+  height: 30px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -216,9 +216,10 @@ input:-webkit-autofill:focus {
 }
 
 .preloader-inner .single-loader{
-  width: 33%;
-  height: 33%;
-  float: left;
+  width: 25%;
+  height: 70%;
+  float: right;
+  border-radius: 25px;
   -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
   animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out; 
 }
@@ -231,24 +232,7 @@ input:-webkit-autofill:focus {
 .preloader-inner .three {
   -webkit-animation-delay: 0.4s;
           animation-delay: 0.4s; }
-.preloader-inner .four {
-  -webkit-animation-delay: 0.1s;
-          animation-delay: 0.1s; }
-.preloader-inner .five {
-  -webkit-animation-delay: 0.2s;
-          animation-delay: 0.2s; }
-.preloader-inner .six {
-  -webkit-animation-delay: 0.3s;
-          animation-delay: 0.3s; }
-.preloader-inner .seven {
-  -webkit-animation-delay: 0s;
-          animation-delay: 0s; }
-.preloader-inner .eight {
-  -webkit-animation-delay: 0.1s;
-          animation-delay: 0.1s; }
-.preloader-inner .nine {
-  -webkit-animation-delay: 0.2s;
-          animation-delay: 0.2s; }
+
 
 @-webkit-keyframes sk-cubeGridScaleDelay {
   0%, 70%, 100% {
